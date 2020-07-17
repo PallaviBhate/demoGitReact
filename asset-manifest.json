@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/demoGitReact/static/css/main.5f361e03.chunk.css",
-    "main.js": "/demoGitReact/static/js/main.d950c193.chunk.js",
-    "main.js.map": "/demoGitReact/static/js/main.d950c193.chunk.js.map",
+    "main.js": "/demoGitReact/static/js/main.ae32f91b.chunk.js",
+    "main.js.map": "/demoGitReact/static/js/main.ae32f91b.chunk.js.map",
     "runtime-main.js": "/demoGitReact/static/js/runtime-main.b611925e.js",
     "runtime-main.js.map": "/demoGitReact/static/js/runtime-main.b611925e.js.map",
-    "static/js/2.2d274547.chunk.js": "/demoGitReact/static/js/2.2d274547.chunk.js",
-    "static/js/2.2d274547.chunk.js.map": "/demoGitReact/static/js/2.2d274547.chunk.js.map",
+    "static/js/2.6a954f0b.chunk.js": "/demoGitReact/static/js/2.6a954f0b.chunk.js",
+    "static/js/2.6a954f0b.chunk.js.map": "/demoGitReact/static/js/2.6a954f0b.chunk.js.map",
     "index.html": "/demoGitReact/index.html",
-    "precache-manifest.4a1722ee2f933613ba63b21f5521b8b7.js": "/demoGitReact/precache-manifest.4a1722ee2f933613ba63b21f5521b8b7.js",
+    "precache-manifest.95c327f306d72f04b121fa87f2b7d37a.js": "/demoGitReact/precache-manifest.95c327f306d72f04b121fa87f2b7d37a.js",
     "service-worker.js": "/demoGitReact/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/demoGitReact/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2d274547.chunk.js.LICENSE.txt": "/demoGitReact/static/js/2.2d274547.chunk.js.LICENSE.txt",
+    "static/js/2.6a954f0b.chunk.js.LICENSE.txt": "/demoGitReact/static/js/2.6a954f0b.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/demoGitReact/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b611925e.js",
-    "static/js/2.2d274547.chunk.js",
+    "static/js/2.6a954f0b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d950c193.chunk.js"
+    "static/js/main.ae32f91b.chunk.js"
   ]
 }
